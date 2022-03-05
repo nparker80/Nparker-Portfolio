@@ -1,5 +1,8 @@
 # Updated Portfolio
 
+[GitHub Pages](https://nparker80.github.io/Nparker-Portfolio/)
+
+[GitHub Portfolio](https://nparker80.github.com/Nparker-Portfolio/)
 
 ## Description:
 
