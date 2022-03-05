@@ -21,9 +21,9 @@ As I have progressed through Coding Bootcamp and gained additional skills throug
 
 ## Project Link
 
-![Portfolio Repository](https://github.com/nparker80/Nparker-Portfolio)
+[Portfolio Repository](https://github.com/nparker80/Nparker-Portfolio)
 
-![Portfolio Live Website](https://nparker80.github.io/Nparker-Portfolio/)
+[Portfolio Live Website](https://nparker80.github.io/Nparker-Portfolio/)
 
 <br>
 MIT License
